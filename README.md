@@ -1,2 +1,2 @@
 # planets
-Trip to Mars
+Project to colonize Mars
